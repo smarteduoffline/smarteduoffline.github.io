@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.smarteduoffline.twa",
+    "sha256_cert_fingerprints": ["58:49:7F:E5:4C:14:DF:C8:92:F8:57:6B:96:BA:12:41:D9:CE:CC:34:5E:49:DD:0B:AA:2E:DC:FB:17:78:05:F0"]
+  }
+}]
